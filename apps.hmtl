@@ -1,1 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Lucas's Portfolio Website</title>
+    </head>
+    <body>
+    
+        <img src="csc106banner.jpeg">
+        <h1>Apps</h1>
+
+        <table>
+            <thead>
+                <tr>
+                   <th><a href="index.html"> <img src="home.png"> </a></th>
+                </tr>
+                <tr>
+                  
+                     <th><a href="javascripts.html"> <img src="javascripts.png"> </a></th>
+                </tr>
+                 <tr>
+                  <th><a href="aboutme.html"> <img src="aboutme.png"> </a></th>
+                </tr>
+                 <tr>
+                    <th><a href="apps.html"> <img src="appstag.png"> </a></th>
+                </tr>
+            </thead>
+        </table>
+
+       
+    </body>
+</html>
+
 
